@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Agricultores
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Agricultores\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=tipo\ dire
+comment1.target=Agricultores(int,\ int)
+comment10.params=cant
+comment10.target=void\ setTanqueAgua(int)
+comment11.params=
+comment11.target=void\ noPuedeEntrar()
+comment2.params=
+comment2.target=java.lang.String\ getRol()
+comment3.params=dep
+comment3.target=void\ depositoAlimentos(Depositos)
+comment4.params=cant
+comment4.target=void\ addAlimentos(int)
+comment5.params=
+comment5.target=int\ getAlimentos()
+comment6.params=cant
+comment6.target=void\ setAlimentos(int)
+comment7.params=cant
+comment7.target=void\ addAgua(int)
+comment8.params=
+comment8.target=void\ quitarAgua()
+comment9.params=
+comment9.target=int\ getTanqueAgua()
+numComments=12

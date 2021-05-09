@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Iniciar
+comment1.params=
+comment1.target=Iniciar()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Iniciar\r\n
+comment2.params=nameFile
+comment2.target=void\ readFile(java.lang.String)
+comment2.text=\r\n\ readFile\ recibe\ la\ ruta\ del\ archivo\ que\ se\ va\ a\ leer,\ este\ archivo\ debe\ estar\ en\ la\ ruta\ principal\ del\ proyecto.\r\n\ Este\ m\u00E9todo\ lee\ el\ archivo\ l\u00EDnea\ por\ l\u00EDnea,\ luego\ guarda\ en\ un\ vector\ de\ tipo\ String\ todas\ las\ letras\ o\ n\u00FAmeros\ que\ hay\ en\ esa\ l\u00EDnea.\r\n\ Cada\ letra\ se\ guarda\ en\ una\ posici\u00F3n\ del\ vector,\ gracias\ al\ m\u00E9todo\ linea.split(","),\ el\ cual\ saca\ cada\ letra\ o\ n\u00FAmero\ que\ se\ encuentra\ entre\ comas.\r\n\ Se\ crean\ instancias\ de\ las\ clases\ miMundo,\ Tribu,\ Fuente,\ Obtaculo,\ estas\ clases\ son\ ejemplos\ de\ una\ versi\u00F3n\ de\ proyecto\ anterior;\r\n\ les\ va\ a\ arrojar\ error\ porque\ ustedes\ no\ tienen\ esas\ clases\ en\ sus\ proyectos,\ adem\u00E1s,\ deben\ modificarlas\ de\ acuerdo\ a\ los\ elementos\ que\ tienen\ definidos\ en\ sus\ proyectos\r\n
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+comment3.text=\r\n\ En\ esta\ versi\u00F3n\ el\ juego\ se\ iniciar\u00E1\ como\ se\ explica\ en\ el\ paso\ 4.\r\n
+numComments=4

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Board
+comment0.text=\r\n\ PROYECTO\ DE\ POO\ -\ UNIVERSIDAD\ INDUSTRIAL\ DE\ SANTANDER\r\n\ >>>>>>>>>\ JUEGO\ DE\ ROLES\ <<<<<<<<<<<<\r\n\ \r\n\ @author\:\ Iv\u00E1n\ Castillo,\ Santiago\ G\u00F3mez.\ \r\n\ @version\:\ 3.0.15.02.17\r\n
+comment1.params=x\ y
+comment1.target=Board(int,\ int)
+comment2.params=
+comment2.target=void\ act()
+numComments=3

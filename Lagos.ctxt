@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Lagos
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Lagos\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Lagos()
+comment2.params=
+comment2.target=void\ regeneracion()
+comment3.params=
+comment3.target=void\ act()
+comment4.params=agri
+comment4.target=void\ darAgua(Agricultores)
+comment5.params=
+comment5.target=int\ getAgua()
+comment6.params=cant
+comment6.target=void\ setAgua(int)
+numComments=7

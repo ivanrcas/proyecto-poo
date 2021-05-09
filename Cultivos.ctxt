@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Cultivos
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Cultivos\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Cultivos()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=agri
+comment3.target=void\ darAlimentos(Agricultores)
+comment4.params=
+comment4.target=void\ ganaciaAlimentos()
+comment5.params=
+comment5.target=int\ getAlimentos()
+comment6.params=cant
+comment6.target=void\ setAlimentos(int)
+numComments=7

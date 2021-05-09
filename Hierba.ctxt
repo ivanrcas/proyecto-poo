@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Hierba
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Hierba\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Hierba()
+comment2.params=
+comment2.target=void\ regeneracion()
+comment3.params=
+comment3.target=void\ act()
+comment4.params=cha
+comment4.target=void\ darSanacion(Chamanes)
+comment5.params=
+comment5.target=int\ getSanacion()
+comment6.params=cant
+comment6.target=void\ setSanacion(int)
+numComments=7
